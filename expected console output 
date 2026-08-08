@@ -1,0 +1,20 @@
+expected console output 
+======================================
+     SEQUENCE DETECTOR TESTBENCH
+     Detecting Sequence: 1011
+======================================
+
+Time = 20 | Input = 1 | Detected = 0
+Time = 30 | Input = 0 | Detected = 0
+Time = 40 | Input = 1 | Detected = 0
+Time = 50 | Input = 1 | Detected = 1
+
+Time = 60 | Input = 0 | Detected = 0
+Time = 70 | Input = 1 | Detected = 0
+Time = 80 | Input = 0 | Detected = 0
+Time = 90 | Input = 1 | Detected = 0
+Time = 100 | Input = 1 | Detected = 1
+
+======================================
+Simulation Completed
+======================================
